@@ -1,4 +1,5 @@
 Artificial content plan
 -learn node js
 -create a website 
+- join another bootcamp
 - get a job
