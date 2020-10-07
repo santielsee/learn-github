@@ -1,3 +1,3 @@
 Artificial content plan
--learn framework
--create a website
+-learn framework (CI and Laravel)
+-create a website 
