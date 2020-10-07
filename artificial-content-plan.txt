@@ -1,4 +1,4 @@
 Artificial content plan
--learn framework (CI and Laravel)
--create a website 
+-first need to learn js.
+-learn python
 - get a job
