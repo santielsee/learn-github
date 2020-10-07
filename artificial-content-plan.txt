@@ -1,5 +1,5 @@
 Artificial content plan
--first need to learn js.
+-first need to learn js ok.
 -learn python
 - join another bootcamp
 - get a job
